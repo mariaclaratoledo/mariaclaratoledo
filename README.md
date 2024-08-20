@@ -11,4 +11,4 @@ meu nome é maria clara, tenho 16 anos
 00001106796093sp@al.educacao.sp.gov.br
 
 
-![image](https://github.com/user-attachments/assets/53ba407b-23f7-48b6-b59c-202747cf73e0)
+![](https://github.com/user-attachments/assets/53ba407b-23f7-48b6-b59c-202747cf73e0)
