@@ -2,7 +2,7 @@
 
 meu nome é maria clara, tenho 16 anos
 
--estou estudando na Alura
+-estou estudando na [Alura](https://www.alura.com.br)
 
 -estou me desenvolvendo na linguagem javascript-ultilizo esse espaço para me organizar e compartilhar meus projetos desenvolvidos 
 
